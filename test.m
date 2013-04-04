@@ -12,6 +12,6 @@ int main(int argc, char** argv)
   else {
     r=0;
 }
-  printf("Parametr 'r'=%d\n",r); 
+  printf("Parametr 'r'==%d\n",r); 
   exit(r);
 }
